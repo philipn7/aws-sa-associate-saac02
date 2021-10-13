@@ -2,4 +2,5 @@
 ## Notes for Castrill's course
 
 Sections:
-* [Introduction](notes/Introduction.md)
+* [Introduction](notes/introduction.md)
+* [AWS Fundamentals](notes/aws-fundamentals.md)
