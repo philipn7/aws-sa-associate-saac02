@@ -4,3 +4,4 @@
 Sections:
 * [Introduction](notes/introduction.md)
 * [AWS Fundamentals](notes/aws-fundamentals.md)
+* [IAM, Accounts and AWS Organizations](notes/iam-accounts.md)
