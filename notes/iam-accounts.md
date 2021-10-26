@@ -43,6 +43,8 @@
 - ![](images/Pasted%20image%2020211020201114.png)
 - Use roles to assume the identity of other accounts.
 
+# *TODO:* anki notes on the sections below.
+
 ## Service Control Policies
 - a feature of AWS Organizations which allow restrictions to be placed on MEMBER accounts in the form of boundaries.
 - ![](images/Pasted%20image%2020211023151245.png)
