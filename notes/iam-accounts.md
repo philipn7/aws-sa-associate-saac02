@@ -43,8 +43,6 @@
 - ![](images/Pasted%20image%2020211020201114.png)
 - Use roles to assume the identity of other accounts.
 
-# *TODO:* anki notes on the sections below.
-
 ## Service Control Policies
 - a feature of AWS Organizations which allow restrictions to be placed on MEMBER accounts in the form of boundaries.
 - ![](images/Pasted%20image%2020211023151245.png)
@@ -56,6 +54,7 @@
 ## CloudWatch Logs
 - ![](images/Pasted%20image%2020211023154645.png)
 - We'll be seeing this alot so don't need to worry about details yet.
+- CloudWatch Logs is a service which can accept logging data, store it and monitor it.
 
 ## CloudTrail
 - Logs API calls and account events. So actions by user, role or service.

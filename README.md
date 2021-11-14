@@ -6,3 +6,4 @@ Sections:
 * [AWS Fundamentals](notes/aws-fundamentals.md)
 * [IAM, Accounts and AWS Organizations](notes/iam-accounts.md)
 * [Simple Storage Service (S3)](notes/s3.md)
+* [Virtual Private Cloud (VPC)](notes/vpc.md)
